@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ECD" format="1">
+  <advance width="544"/>
+  <unicode hex="1ECD"/>
+  <outline>
+    <contour>
+      <point x="272" y="581" type="move" name="above"/>
+    </contour>
+    <component base="dotbelowcomb" xOffset="592"/>
+    <component base="o"/>
+  </outline>
+</glyph>

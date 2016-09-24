@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="650"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="326" y="743" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="327" y="0" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="345" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="75" y="290" type="qcurve" smooth="yes"/>
+      <point x="75" y="698" type="line"/>
+      <point x="157" y="698" type="line"/>
+      <point x="157" y="290" type="line" smooth="yes"/>
+      <point x="157" y="185"/>
+      <point x="239" y="54"/>
+      <point x="413" y="54"/>
+      <point x="495" y="185"/>
+      <point x="495" y="290" type="qcurve" smooth="yes"/>
+      <point x="495" y="698" type="line"/>
+      <point x="575" y="698" type="line"/>
+      <point x="575" y="290" type="line" smooth="yes"/>
+      <point x="575" y="143"/>
+      <point x="444" y="-16"/>
+      <point x="326" y="-16" type="qcurve" smooth="yes"/>
+      <point x="207" y="-16"/>
+      <point x="75" y="143"/>
+    </contour>
+  </outline>
+</glyph>

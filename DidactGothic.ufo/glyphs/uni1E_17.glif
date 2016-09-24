@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E17" format="1">
+  <advance width="538"/>
+  <unicode hex="1E17"/>
+  <outline>
+    <component base="acutecomb" xOffset="591" yOffset="121"/>
+    <component base="emacron"/>
+  </outline>
+</glyph>

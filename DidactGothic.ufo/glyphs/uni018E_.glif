@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni018E" format="1">
+  <advance width="515"/>
+  <unicode hex="018E"/>
+  <outline>
+    <contour>
+      <point x="223" y="743" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="434" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="63" type="line"/>
+      <point x="358" y="63" type="line"/>
+      <point x="358" y="348" type="line"/>
+      <point x="113" y="348" type="line"/>
+      <point x="113" y="411" type="line"/>
+      <point x="358" y="411" type="line"/>
+      <point x="358" y="634" type="line"/>
+      <point x="43" y="634" type="line"/>
+      <point x="43" y="698" type="line"/>
+      <point x="434" y="698" type="line"/>
+    </contour>
+  </outline>
+</glyph>
