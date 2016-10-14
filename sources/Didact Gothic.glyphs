@@ -1,5 +1,8 @@
 {
 .appVersion = "926";
+DisplayStrings = (
+"\""
+);
 classes = (
 {
 automatic = 1;
@@ -205,6 +208,40 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 682;
+customParameters = (
+{
+name = winAscent;
+value = 1127;
+},
+{
+name = typoAscender;
+value = 1046;
+},
+{
+name = hheaAscender;
+value = 1046;
+},
+{
+name = typoDescender;
+value = -267;
+},
+{
+name = hheaDescender;
+value = -267;
+},
+{
+name = winDescent;
+value = 267;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoLineGap;
+value = 0;
+}
+);
 descender = -200;
 id = UUID0;
 weight = Light;
@@ -60524,10 +60561,6 @@ width = 329;
 },
 {
 components = (
-{
-name = quotesingle;
-transform = "{1, 0, 0, 1, -9, 0}";
-},
 {
 name = quotesingle;
 transform = "{1, 0, 0, 1, -9, 0}";
