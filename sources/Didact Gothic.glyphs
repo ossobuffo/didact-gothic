@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acircumflex Acircumflexdotbelow Adblgrave Adieresis Adot
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2010, 2011, 2013 by Daniel Johnson and Didact Gothic Project Authors";
+copyright = "Copyright 2010-2016 Didact Gothic Project Authors";
 customParameters = (
 {
 name = license;
@@ -36,7 +36,11 @@ value = 1;
 },
 {
 name = note;
-value = "Light Master contained legacy version\012";
+value = "Light Master containes legacy version\012";
+},
+{
+name = vendorID;
+value = CYRE;
 }
 );
 date = "2016-10-14 15:21:54 +0000";
@@ -217,6 +221,40 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 682;
+customParameters = (
+{
+name = winAscent;
+value = 1127;
+},
+{
+name = typoAscender;
+value = 1046;
+},
+{
+name = hheaAscender;
+value = 1046;
+},
+{
+name = typoDescender;
+value = -267;
+},
+{
+name = hheaDescender;
+value = -267;
+},
+{
+name = winDescent;
+value = 267;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoLineGap;
+value = 0;
+}
+);
 descender = -200;
 id = "63224BA1-30A4-42F4-A6D1-9160F56B91B0";
 userData = {
