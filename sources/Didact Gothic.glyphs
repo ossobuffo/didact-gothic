@@ -58726,7 +58726,7 @@ width = 260;
 unicode = 2044;
 },
 {
-color = 1;
+color = 5;
 glyphname = onehalf;
 layers = (
 {
@@ -58821,17 +58821,17 @@ transform = "{1, 0, 0, 1, 270, 0}";
 {
 alignment = -1;
 name = twosuperior;
-transform = "{1, 0, 0, 1, 530, 0}";
+transform = "{1, 0, 0, 1, 449, -258}";
 }
 );
 layerId = "63224BA1-30A4-42F4-A6D1-9160F56B91B0";
-width = 877;
+width = 796;
 }
 );
 unicode = 00BD;
 },
 {
-color = 1;
+color = 5;
 glyphname = onequarter;
 layers = (
 {
@@ -58911,18 +58911,19 @@ name = fraction;
 transform = "{1, 0, 0, 1, 270, 0}";
 },
 {
+alignment = -1;
 name = foursuperior;
-transform = "{1, 0, 0, 1, 530, 0}";
+transform = "{1, 0, 0, 1, 430, -258}";
 }
 );
 layerId = "63224BA1-30A4-42F4-A6D1-9160F56B91B0";
-width = 894;
+width = 802;
 }
 );
 unicode = 00BC;
 },
 {
-color = 1;
+color = 5;
 glyphname = threequarters;
 layers = (
 {
@@ -59034,15 +59035,16 @@ name = threesuperior;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 340, 0}";
+transform = "{1, 0, 0, 1, 310, 0}";
 },
 {
+alignment = -1;
 name = foursuperior;
-transform = "{1, 0, 0, 1, 600, 0}";
+transform = "{1, 0, 0, 1, 470, -258}";
 }
 );
 layerId = "63224BA1-30A4-42F4-A6D1-9160F56B91B0";
-width = 964;
+width = 842;
 }
 );
 unicode = 00BE;
@@ -73760,6 +73762,13 @@ instanceInterpolations = {
 name = Regular;
 }
 );
+kerning = {
+"63224BA1-30A4-42F4-A6D1-9160F56B91B0" = {
+threesuperior = {
+fraction = -30;
+};
+};
+};
 keyboardIncrement = 0;
 manufacturer = "Daniel Johnson";
 manufacturerURL = "http://danieljohnson.name";
