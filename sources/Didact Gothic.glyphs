@@ -74300,21 +74300,6 @@ width = 235;
 },
 {
 color = 11;
-glyphname = nonmarkingreturn;
-layers = (
-{
-layerId = UUID0;
-width = 333;
-},
-{
-layerId = "63224BA1-30A4-42F4-A6D1-9160F56B91B0";
-width = 223;
-}
-);
-widthMetricsKey = space;
-},
-{
-color = 11;
 glyphname = uni1F58;
 layers = (
 {
@@ -74420,6 +74405,7 @@ unicode = 1F5C;
 },
 {
 color = 11;
+export = 0;
 glyphname = uni1F5E;
 layers = (
 {
