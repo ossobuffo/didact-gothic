@@ -7,7 +7,5 @@
 # Names should be added to this file like so:
 #     Name <email address>
 
+Daniel Johnson <il.basso.buffo@gmail.com>
 Alexei Vanyashin <a@cyreal.org>
-Cyreal <contact@cyreal.org>
-Nhung Nguyen <vns.wonderland@gmail.com>
-Marc Foley <m.foley.88@googlemail.com>
