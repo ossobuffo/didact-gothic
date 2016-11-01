@@ -16,6 +16,7 @@ for literacy efforts.
 
 ChangeLog
 ---------
+2016-10-14 	v.2.000 Design improvements across GF Latin Plus, and GF Cyrillic Plus (Cyreal)
 2013-01-25  Major stroke-width improvements in shoulders. Improved esszet,
             eth, thorn, slashed o. Added space between stroke and dot of
 	    question and exclamation marks for legibility at low point-sizes.
