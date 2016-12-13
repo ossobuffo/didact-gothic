@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "948";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acaron Acircumflex Acircumflexdotbelow Adblgrave Adieres
 name = Uppercase;
 }
 );
-copyright = "Copyright 2010-2016 Didact Gothic Project Authors";
+copyright = "Copyright 2016 The Didact Gothic Project Authors (il.basso.buffo@gmail.com)";
 customParameters = (
 {
 name = license;
