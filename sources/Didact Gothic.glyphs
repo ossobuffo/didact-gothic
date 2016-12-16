@@ -242,11 +242,11 @@ value = 1046;
 },
 {
 name = typoDescender;
-value = -267;
+value = -265;
 },
 {
 name = hheaDescender;
-value = -267;
+value = -265;
 },
 {
 name = winDescent;
@@ -259,6 +259,10 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = hheaAscender;
+value = 1046;
 }
 );
 descender = -200;
