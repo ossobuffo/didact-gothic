@@ -1,5 +1,5 @@
 {
-.appVersion = "957";
+.appVersion = "965";
 classes = (
 {
 automatic = 1;
@@ -36610,7 +36610,18 @@ glyphname = hyphen;
 layers = (
 {
 layerId = "63224BA1-30A4-42F4-A6D1-9160F56B91B0";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"284 218 LINE",
+"284 274 LINE",
+"57 274 LINE",
+"57 218 LINE"
+);
+}
+);
+width = 340;
 }
 );
 unicode = 002D;
@@ -47889,5 +47900,5 @@ tH = "62";
 };
 };
 versionMajor = 2;
-versionMinor = 100;
+versionMinor = 101;
 }
